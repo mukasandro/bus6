@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bus6.Core", "Bus6.Core\Bus6.Core.csproj", "{255106FC-D8D0-42E8-8AED-6E9F58E78D09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{33C6A861-9FA9-461B-ABBB-2AA4B9A573F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{5F5F4375-B0EB-4E51-AEC0-8B741BCF8F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255106FC-D8D0-42E8-8AED-6E9F58E78D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255106FC-D8D0-42E8-8AED-6E9F58E78D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255106FC-D8D0-42E8-8AED-6E9F58E78D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255106FC-D8D0-42E8-8AED-6E9F58E78D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{255106FC-D8D0-42E8-8AED-6E9F58E78D09} = {33C6A861-9FA9-461B-ABBB-2AA4B9A573F8}
+	EndGlobalSection
+EndGlobal
